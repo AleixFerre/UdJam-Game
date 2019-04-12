@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-velocitat[0] = -vel;
+sprite_index = spr_personatge_corrents;
+image_xscale = 1;
