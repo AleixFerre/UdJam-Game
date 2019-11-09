@@ -7,4 +7,4 @@ by:
   Aleix Ferré, 
   Roger Gibert, 
   Eric Joaquin Villena, 
-  Guillem Rodriguez, 
+  Guillem Rodriguez.
